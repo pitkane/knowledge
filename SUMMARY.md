@@ -8,3 +8,4 @@
 
 * [Defining Methods](methods.md)
 
+* [Books](books.md)
