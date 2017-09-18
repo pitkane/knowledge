@@ -4,6 +4,10 @@
 
 <https://github.com/andreagrandi/drf-tutorial>
 
+## Django & Docker
+
+<https://www.capside.com/labs/deploying-full-django-stack-with-docker-compose/>
+
 ## Python
 
 Codecademy's interactive Python course to learn syntax.

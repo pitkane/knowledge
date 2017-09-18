@@ -1,5 +1,7 @@
 # Mikko
 
+Develop people insted of product
+
 - Secret to life is to get
 
 Doing something beoynd
