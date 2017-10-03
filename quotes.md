@@ -1,5 +1,7 @@
 # Quotes
 
+"Loukkaus on ainoa haaste johon ei kannata vastata, koska se ei vie ketään eteenpäin" - Jari Sarasvuo
+
 ”Piilaaksossa kaikki aina puhuvat paremmasta maailmasta. Se on cliché, mutta päämäärillä on merkitystä. Haluan tehdä jotain, millä on positiivista yhteiskunnallista merkitystä.” - Chester Chipperfield
 
 "Today I create my future, not tomorrow!"
@@ -50,8 +52,5 @@ Ota tavaksesi tehdä joka päivä jotain sellaista, mitä et tahtoisi tehdä. T�
 ”Action is the foundational key to all success.” - Pablo Picasso
 
 "Onni ei ole ottamista ja saamista, vaan luomista ja antamista." - Maria Jotuni
-
-
-
 
 “If you rely on finding time to do something, it will never be done. If you want to find time, you must make time.” Josh Kaufman
