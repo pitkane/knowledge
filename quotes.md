@@ -1,5 +1,7 @@
 # Quotes
 
+"Heikko toisesta heikosta syyllisen löytää" - Pyhimys
+
 "Loukkaus on ainoa haaste johon ei kannata vastata, koska se ei vie ketään eteenpäin" - Jari Sarasvuo
 
 ”Piilaaksossa kaikki aina puhuvat paremmasta maailmasta. Se on cliché, mutta päämäärillä on merkitystä. Haluan tehdä jotain, millä on positiivista yhteiskunnallista merkitystä.” - Chester Chipperfield
