@@ -2,12 +2,20 @@
 
 Develop people insted of product
 
-- Secret to life is to get
+* Secret to life is to get:
 
 Doing something beoynd
 Learn, grow and add value.
 
-“It is easy to blame your lot in life on some outside force, to stop trying because you believe fate is against you. It is easy to think that where you were raised, how your parents treated you, or what school you went to is all that determines your future. Nothing could be further from the truth. The common people and the great men and women are all defined by how they deal with life’s unfairness: Helen Keller, Nelson Mandela, Stephen Hawking, Malala Yousafzai, and—Moki Martin. Sometimes no matter how hard you try, no matter how good you are, you still end up as a sugar cookie. Don’t complain. Don’t blame it on your misfortune. Stand tall, look to the future, and drive on!” ― William H. McRaven
+You're The Average Of The Five People You Spend The Most Time With - Jim Rohn
+
+"What would it look like if it was easy?" - Tim Ferriss
+
+"What 20% of your time produces 80% of your result?" - Tim Ferriss
+
+"It is easy to blame your lot in life on some outside force, to stop trying because you believe fate is against you. It is easy to think that where you were raised, how your parents treated you, or what school you went to is all that determines your future. Nothing could be further from the truth. The common people and the great men and women are all defined by how they deal with life's unfairness: Helen Keller, Nelson Mandela, Stephen Hawking, Malala Yousafzai, and Moki Martin. Sometimes no matter how hard you try, no matter how good you are, you still end up as a sugar cookie. Don't complain. Don't blame it on your misfortune. Stand tall, look to the future, and drive on!" - William H. McRaven
+
+jyrinieminen: Your values are your backbone what ever happens in good or bad so pay attention on thinking on them. Liittykää niihin, jotka laulavat, kertovat tarinoita ja nauttivat elämästä ja, joiden silmät loistavat ilosta, sillä ilo on tarttuvaa ja se löytää ratkaisun sieltäkin, jossa järki näkee ainoastaan selityksen virheeseen.
 
 Do things that benefit others. Add value to their live
 
@@ -17,15 +25,15 @@ Passionate about software development, growing as a human
 
 Trying to add more value to other peoples lives. Passionate about software development.
 
-- Help world by loving and caring, not by greed
-- Levereging Happiness Advantage
-- Proactive man creating reactive code
+* Help world by loving and caring, not by greed
+* Levereging Happiness Advantage
+* Proactive man creating reactive code
 
 Be a service for humankind
 
 Get a little bit better each day
 
-"Don't let perfection become procrastination. Do it now." —@DanielleLaPorte
+"Don't let perfection become procrastination. Do it now." - @DanielleLaPorte
 
 Startup Entrepreneur, Founder of Mbit
 Tech Entrepreneur
@@ -38,7 +46,7 @@ Twitter: pitkane
 
 Quotes:
 
-"Waste no more time arguing about what a good person should be. Be one." —Marcus Aurelius
+"Waste no more time arguing about what a good person should be. Be one." -Marcus Aurelius
 
 The Samurai Carpenter
 
@@ -47,11 +55,11 @@ This shop represents freedom, it represents opportunity, it represents everythin
 
 This is proof, that when you believe and hold tight in to your dreams, they will be made a reality. So if you have lost hope, if you let your dreams go, let me just tell you: Go and pick them up, and get back to work.
 
-- Life can be much broader once you discover that everything around you that you call life is made up by people that were no smarter than you.
+* Life can be much broader once you discover that everything around you that you call life is made up by people that were no smarter than you.
 
 "All our dreams can come true - if we have the courage to pursue them." ~ Walt Disney via @coachdotme
 
 Juhani Henriksson Sometimes people are beautiful. Not in looks. Not in what they say. Just in what they are.
 Juhani Henriksson
 
- Sometimes people are beautiful. Not in looks. Not in what they say. Just in what they are.
+Sometimes people are beautiful. Not in looks. Not in what they say. Just in what they are.
