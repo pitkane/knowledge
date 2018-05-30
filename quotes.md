@@ -1,5 +1,13 @@
 # Quotes
 
+"Stress primarily comes from not taking action over something that you can have some control over" - Jeff Bezos
+
+"Miksi ja miten ovat lähes aina kiinnostavampia kuin mitä. #mitä #miksi #miten" - Mikko Kuitunen
+![Mikko](/images/2018-05-30-09-37-54.png)
+<https://twitter.com/mikko_kuitunen/status/1001540016710062080>
+
+"Money. That which separates the haves from the have-nots. But what is money? It's everything if you don't have it, right? Half of all American adults have more credit card debt than savings." While most American's don't solve their financial problems by going outside of the law, these opening lines help set the stage for the show's foundation. "Money is not peace of mind. Money's not happiness. Money is, at its essence... that measure of a man's choices." - Tv seriers, Ozark
+
 "Be thankful for what you have; you'll end up having more. If you concentrate on what you don't have, you will never, ever have enough." -@Oprah via @momentumdash
 
 "Heikko toisesta heikosta syyllisen löytää" - Pyhimys
